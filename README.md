@@ -7,14 +7,8 @@ Terdiri dari beberapa service yang berjalan secara terpisah dan API Gateway seba
 
 ## Struktur Project
 
-go-microservices-demo/
-├── gateway/
-│ └── main.go # API Gateway service
-├── product-service/
-│ └── main.go # Service produk dengan endpoint GET dan POST /products
-├── user-service/
-│ └── main.go # Service user dengan endpoint GET dan POST /users (contoh)
-└── README.md
+<img width="218" height="134" alt="image" src="https://github.com/user-attachments/assets/cb14bcb8-9edd-454b-b969-d1bae863ea07" />
+
 
 yaml
 Copy code
@@ -118,4 +112,5 @@ Gunakan tools seperti Postman untuk eksplorasi API lebih mudah.
 
 Lisensi
 Proyek ini dibagikan tanpa lisensi khusus (public domain). Gunakan dan modifikasi bebas.
+
 
